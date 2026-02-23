@@ -59,8 +59,8 @@ No competimos por precio, sino por **especialización pedagógica real**.
 
 
 ### 🚨 Detección de errores en tiempo real
-<img width="709" height="640" alt="infraccion_quintas-6" src="https://github.com/user-attachments/assets/8c97f609-0199-4b8b-b3ac-5db2dcfa9d3a" />
 
+<img width="709" height="640" alt="infraccion_quintas-6" src="https://github.com/user-attachments/assets/8c97f609-0199-4b8b-b3ac-5db2dcfa9d3a" />
 *El Tutor señalando una infracción de octavas paralelas en rojo.*
 
 ### 🌑 Modo Oscuro y Guitarra
