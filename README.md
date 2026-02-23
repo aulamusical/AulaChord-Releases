@@ -83,6 +83,31 @@ Mientras descargas, puedes leer nuestro manual. No es solo una guía de usuario,
 
 ---
 
+## 💻 Requisitos del Sistema
+
+Para garantizar el rendimiento en tiempo real y la precisión gráfica, AulaChord utiliza tecnologías de última generación. Asegúrate de que tu equipo cumpla con lo siguiente:
+
+| Sistema Operativo | Versión Mínima Soportada |
+| :--- | :--- |
+| **Windows** | Windows 10 (64-bit, v1809+) o Windows 11 |
+| **macOS** | macOS 12 (Monterey) o superior |
+
+> **Nota para usuarios de Mac:** AulaChord es compatible nativamente tanto con procesadores Intel como con Apple Silicon (M1/M2/M3).
+
+---
+
+## 🔐 Licencia y Activación
+
+AulaChord es un software comercial de **Licencia Perpetua** (Pago Único).
+
+* **Sin suscripciones:** Compras una vez, es tuyo para siempre.
+* **Descarga Gratuita:** El instalador es público, pero requiere una clave de licencia válida para activar todas las funciones de guardado y exportación.
+* **Soporte:** Las actualizaciones dentro de la versión 5.x están incluidas.
+
+👉 **[Adquirir Licencia Oficial ($39 USD)](https://aulamusical.com)**
+
+---
+
 ## 🎯 Detrás del Código: Pedagogía Convertida en Algoritmo
 
 AulaChord nace en el aula de clase, no en una sala de juntas. Es la respuesta a **38 años** de experiencia en arreglos, transcripciones y enseñanza académica en la Universidad de Antioquia.
