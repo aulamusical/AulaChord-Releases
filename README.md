@@ -104,7 +104,7 @@ AulaChord es un software comercial de **Licencia Perpetua** (Pago Único).
 * **Descarga Gratuita:** El instalador es público, pero requiere una clave de licencia válida para activar todas las funciones de guardado y exportación.
 * **Soporte:** Las actualizaciones dentro de la versión 5.x están incluidas.
 
-👉 **[Adquirir Licencia Oficial ($39 USD)](https://aulamusical.com)**
+👉 **[Adquirir Licencia Oficial ($39 USD)](https://aulamusical.com/Aulachord)**
 
 ---
 
