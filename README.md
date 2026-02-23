@@ -74,7 +74,7 @@ No competimos por precio, sino por **especialización pedagógica real**.
 
 AulaChord está actualmente en fase de **Beta Privada**. Estamos puliendo los últimos detalles para ofrecerte la experiencia más estable posible en Windows y macOS.
 
-👉 [**Ir a la sección "Releases" para descargar la última versión**](/AulaChord-Releases/releases)
+👉 [**Ir a la sección Releases para descargar la última versión**](https://github.com/aulamusical/AulaChord-Releases/releases)
 
 ### 📚 Aprende la teoría antes de tocar
 Mientras descargas, puedes leer nuestro manual. No es solo una guía de usuario, es un documento técnico-pedagógico sobre armonía moderna, reglas de conducción de voces y análisis funcional.
