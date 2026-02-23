@@ -57,14 +57,15 @@ No competimos por precio, sino por **especialización pedagógica real**.
 
 ## 📸 Galería de Capacidades
 
-*(Espacio reservado para capturas de pantalla. Arrastra tus imágenes aquí)*
 
 ### 🚨 Detección de errores en tiempo real
-![Ejemplo de Quintas Paralelas](https://via.placeholder.com/800x400?text=Inserte+Captura+Tutor+Armonico)
+<img width="709" height="640" alt="infraccion_quintas-6" src="https://github.com/user-attachments/assets/8c97f609-0199-4b8b-b3ac-5db2dcfa9d3a" />
+
 *El Tutor señalando una infracción de octavas paralelas en rojo.*
 
 ### 🌑 Modo Oscuro y Guitarra
-![Vista Guitarra](https://via.placeholder.com/800x400?text=Inserte+Captura+Guitarra)
+<img width="1237" height="1471" alt="diapason_guitarra-6" src="https://github.com/user-attachments/assets/67d5c290-6da1-48d3-9705-c024307454e2" />
+
 *Visualización del diapasón con lógica ergonómica real.*
 
 ---
@@ -87,14 +88,11 @@ Mientras descargas, puedes leer nuestro manual. No es solo una guía de usuario,
 AulaChord nace en el aula de clase, no en una sala de juntas. Es la respuesta a **38 años** de experiencia en arreglos, transcripciones y enseñanza académica en la Universidad de Antioquia.
 
 **Filosofía Técnica:**
-* ✅ **Certeza matemática:**<img width="709" height="640" alt="infraccion_quintas-6" src="https://github.com/user-attachments/assets/4eea098c-2ebd-4342-be00-6e39f3b44b21" />
- Resultados deterministas basados en teoría musical pura<img width="1237" height="1471" alt="diapason_guitarra-6" src="https://github.com/user-attachments/assets/00d7a624-e1e0-4a8f-8a94-0a01da7ae33c" />
- (Berklee, Piston, Levine).
+* ✅ **Certeza matemática:** Resultados deterministas basados en teoría musical pura (Berklee, Piston, Levine).
 * ✅ **Sin "Cajas Negras":** No usamos Deep Learning ni redes neuronales que "adivinan". AulaChord calcula con lógica transparente.
 * ✅ **Sistema de Colores Pedagógicos:**
     * 🔵 **Azul:** Edición/Selección.
-    * 🟡 **Amarillo:** Advertencia suave / Sugerencia<img width="1942" height="868" alt="analisis_editor-6" src="https://github.com/user-attachments/assets/bd03672b-118b-4685-920b-b4e1dc189b95" />
-.
+    * 🟡 **Amarillo:** Advertencia suave / Sugerencia.
     * 🔴 **Rojo:** Infracción armónica (paralelas, cruces).
 
 **Desarrollado por:**
